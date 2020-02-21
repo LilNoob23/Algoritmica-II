@@ -1,6 +1,5 @@
 package ejercicio2;
 
-import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.EventQueue;
 
@@ -13,11 +12,14 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.JTable;
-import javax.swing.JScrollBar;
 import javax.swing.JScrollPane;
 
 public class CalculadoraTabla extends JFrame {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 	private JTextField textField;
 	private JTable table;
