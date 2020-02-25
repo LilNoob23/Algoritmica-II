@@ -101,10 +101,6 @@ public class TablaPascalIngreso extends JFrame {
 		});
 		btnCrearTabla.setBounds(272, 19, 111, 39);
 		panel.add(btnCrearTabla);
-		
-		JLabel lblByGiannyGuerrero = new JLabel("By: Gianny Guerrero");
-		lblByGiannyGuerrero.setBounds(287, 240, 115, 14);
-		contentPane.add(lblByGiannyGuerrero);
 
 	}
 	
